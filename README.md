@@ -9,17 +9,24 @@ This app version is simple enough and minimalistic with not so big functionality
 
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Main.jpg)
 
+
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Add%20Checklist.jpg)
+
 
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Edit%20Checklist.jpg)
 
+
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Choose%20Icon.jpg)
+
 
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Items.jpg)
 
+
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Add%20Item.jpg)
 
+
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Edit%20Item.jpg)
+
 
 
 
