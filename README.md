@@ -26,9 +26,9 @@ This app version is simple enough and minimalistic with not so big functionality
 
 
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Edit%20Item.jpg)
-
-
-
- 
-
+#
+#
+#
+#
+#
 # To be continued........
