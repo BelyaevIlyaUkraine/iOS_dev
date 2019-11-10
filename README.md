@@ -7,7 +7,7 @@ App for handling lists of different deals that you are going to complete in futu
 
 This app version is simple enough and minimalistic with not so big functionality but perspectively improved version with new cool features will be released by me in future during further studying
 
-![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Main.jpg | height = 500)
+![test](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Main.jpg | height = 500)
 
 ![alt text](https://github.com/BelyaevIlyaUkraine/iOS_dev/blob/master/Checklists/Add%20Checklist.jpg)
 
