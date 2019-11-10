@@ -29,6 +29,6 @@ This app version is simple enough and minimalistic with not so big functionality
 
 
 
-
+ 
 
 # To be continued........
