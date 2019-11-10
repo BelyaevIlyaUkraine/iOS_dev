@@ -1,4 +1,4 @@
-# iOS dev
+# iOS development
 
 # Apps for iOS that I've already created during studying iOS dev:
 
